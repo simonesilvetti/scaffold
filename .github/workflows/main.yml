@@ -1,4 +1,4 @@
-name: Coursera
+name: CI Pipeline
 on: [push]
 jobs:
   build:
